@@ -1,8 +1,8 @@
 class Cliffi < Formula
   desc "Tool for calling shared library functions directly from your shell"
   homepage "https://github.com/YSaxon/cliffi"
-  url "https://github.com/YSaxon/cliffi/archive/refs/tags/v1.1.12.tar.gz"
-  sha256 "6b4e6a54b107b045dfe688fa26f8ef06bdee2aeb6575e2690be9460a203b2313"
+  url "https://github.com/YSaxon/cliffi/archive/refs/tags/v1.4.0.tar.gz"
+  sha256 "923e75579a8da8aac16e214c9164c8400fa6e0c3ab32cf42762bb5e61369c41d"
   license "MIT"
 
   depends_on "cmake" => [:build, :test]
